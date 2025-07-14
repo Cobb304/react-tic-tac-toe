@@ -1,6 +1,10 @@
 # react-tic-tac-toe
 A two-player Tic-Tac-Toe game made with React and local state management.
 
+## 🔗 Live Demo
+
+[Try the quiz!](https://cobb304.github.io/react-tic-tac-toe/)
+
 1. Clone the repo:
 
    ```bash
